@@ -1,7 +1,9 @@
 <div align="center">
 
 # 👋 Hey, I'm Prince Nayak
-
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=26&pause=1000&color=00F7FF&center=true&vCenter=true&width=750&lines=Developer+%7C+Cybersecurity+Enthusiast;Building+Real+World+Projects;Code+%7C+Learn+%7C+Build+%7C+Secure" />
+</p>
 ### 💻 Developer | 🔐 Cybersecurity Enthusiast | 🚀 Tech Explorer
 
 <img src="./profile.jpg" width="180" alt="Prince Nayak">
@@ -27,18 +29,8 @@
 </div>
 
 ---
-# 👋 Hey, I'm Prince Nayak
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=26&pause=1000&color=00F7FF&center=true&vCenter=true&width=750&lines=Developer+%7C+Cybersecurity+Enthusiast;Building+Real+World+Projects;Code+%7C+Learn+%7C+Build+%7C+Secure" />
-</p>
 
-<p align="center">
-  <a href="https://github.com/princenayak01">
-    <img src="https://img.shields.io/badge/GitHub-Prince%20Nayak-181717?style=for-the-badge&logo=github"/>
-  </a>
-  <img src="https://komarev.com/ghpvc/?username=princenayak01&label=Profile%20Views&style=for-the-badge"/>
-</p>
 
 ---
 
