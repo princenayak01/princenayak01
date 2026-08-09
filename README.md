@@ -131,11 +131,27 @@ A collection of web-development projects and experiments.
 
 ## 📊 GitHub Stats
 
-## 📊 GitHub Stats
+<div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=princenayak01&show_icons=true&theme=tokyonight)
+### 📌 GitHub Profile
 
----
+<a href="https://github.com/princenayak01">
+<img src="https://img.shields.io/github/followers/princenayak01?label=Followers&style=for-the-badge&logo=github">
+</a>
+
+<a href="https://github.com/princenayak01?tab=repositories">
+<img src="https://img.shields.io/github/stars/princenayak01?affiliations=OWNER&style=for-the-badge&logo=github">
+</a>
+
+<a href="https://github.com/princenayak01">
+<img src="https://img.shields.io/github/last-commit/princenayak01/princenayak01?style=for-the-badge&logo=github">
+</a>
+
+<br><br>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=princenayak01&theme=tokyonight&hide_border=true" alt="GitHub Streak">
+
+</div>
 
 ## 🔥 GitHub Streak
 
