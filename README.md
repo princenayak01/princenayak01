@@ -218,14 +218,7 @@ A collection of web-development projects and experiments.
 
 ## 🌟 Highlights
 
-```text
-💻 Web Development        ████████████████████
-🐍 Python                 ███████████████░░░░░
-🗄️ SQL                   █████████████████░░░
-🔐 Cybersecurity          ███████████████░░░░░
-🌐 Full-Stack             ██████████████░░░░░░
-🚀 Project Building       ████████████████████
----
+
 
 ## 🎯 2026 Goals
 
