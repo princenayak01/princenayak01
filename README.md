@@ -113,6 +113,61 @@ Programming projects and experiments created using Python while developing progr
 </p>
 
 ---
+---
+
+## 🛠️ Tech Stack
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=python,html,css,js,sql,git,github,vscode" />
+
+</p>
+
+---
+
+## 🚀 Featured Projects
+
+| Project | Description | Tech |
+|---|---|---|
+| 🔐 **Text Encryption Suite** | Secure text encryption and decryption project | HTML • CSS • JavaScript |
+| 🖼️ **Image Encryption Tool** | Image security and encryption tool | HTML • CSS • JavaScript |
+| 🏎️ **Car Racing Game** | Interactive browser-based racing game | HTML • CSS • JavaScript |
+| 🔑 **Keylogger Detection & Security System** | Security-focused project for detecting keylogger activity | Python • Security |
+| 🌐 **Webpage Project** | Modern responsive web development project | HTML • CSS |
+
+---
+
+## 💡 What I'm Learning
+
+- 🐍 Python Programming
+- 🗄️ SQL & Database Management
+- 🌐 Full-Stack Web Development
+- 🔐 Cybersecurity & Ethical Hacking
+- ⚡ Modern Web Technologies
+- 🧠 Problem Solving & Programming
+
+---
+
+## 📫 Connect With Me
+
+<p align="center">
+
+<a href="https://github.com/princenayak01">
+<img src="https://img.shields.io/badge/GitHub-Prince%20Nayak-black?style=for-the-badge&logo=github">
+</a>
+
+</p>
+
+---
+
+## 🎯 2026 Goals
+
+```text
+Build real-world projects       ████████████████████ 100%
+Improve Python & SQL             ████████████████░░░░  80%
+Learn Full-Stack Development     ██████████████░░░░░░  70%
+Explore Cybersecurity            █████████████░░░░░░░  65%
+Contribute to Open Source        ██████████░░░░░░░░░░  50%
 
 ## 🎯 2026 Goals
 
