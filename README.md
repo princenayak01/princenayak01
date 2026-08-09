@@ -100,6 +100,11 @@ Programming projects and experiments created using Python while developing progr
 </p>
 
 ---
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/princenayak01/princenayak01/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" />
+</p>
 
 ## 📈 Contribution Graph
 
