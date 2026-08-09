@@ -180,7 +180,51 @@ A collection of web-development projects and experiments.
 <img src="https://raw.githubusercontent.com/princenayak01/princenayak01/gh-pages/github-contribution-grid-snake.svg" width="100%" alt="GitHub Contribution Snake">
 
 </div>
+---
 
+## 🏆 Achievements & Highlights
+
+<div align="center">
+
+### 🚀 Developer Journey
+
+| 🏆 Achievement | 📌 Highlight |
+|---|---|
+| 💻 Project Builder | Built multiple practical software & web projects |
+| 🔐 Cybersecurity | Exploring security research & application protection |
+| 🐍 Python Learner | Developing Python programming skills |
+| 🗄️ SQL Developer | Learning SQL & database management |
+| 🌐 Web Developer | Building interactive web applications |
+| 🔒 Encryption Projects | Developed text & image encryption projects |
+| 🎮 Game Developer | Created browser-based interactive games |
+| 🚀 Continuous Learner | Consistently exploring new technologies |
+
+</div>
+
+---
+
+## 📜 Certifications & Learning
+
+- 🐍 **Python Programming**
+- 🗄️ **SQL & Database Fundamentals**
+- 🌐 **Web Development**
+- 🔐 **Cybersecurity Fundamentals**
+- 🔒 **Encryption & Application Security**
+- 💻 **Software Development**
+
+> 📚 *Currently focused on improving practical skills through projects and continuous learning.*
+
+---
+
+## 🌟 Highlights
+
+```text
+💻 Web Development        ████████████████████
+🐍 Python                 ███████████████░░░░░
+🗄️ SQL                   █████████████████░░░
+🔐 Cybersecurity          ███████████████░░░░░
+🌐 Full-Stack             ██████████████░░░░░░
+🚀 Project Building       ████████████████████
 ---
 
 ## 🎯 2026 Goals
