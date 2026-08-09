@@ -7,7 +7,10 @@
 </p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,python,java,mysql,react,nodejs,express,mongodb,git,github,vscode,linux" />
+  <a href="https://github.com/princenayak01">
+    <img src="https://img.shields.io/badge/GitHub-Prince%20Nayak-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=princenayak01&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
 </p>
 
 ---
@@ -20,52 +23,72 @@
 - 🛠️ Building practical and real-world projects
 - 🚀 Interested in **Encryption, Security & Application Development**
 - 🎯 Focused on continuously improving my skills
+- 📚 Always learning something new
+
+---
+
+## 🛠️ Tech Stack
+
+### 💻 Languages
+
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,python,java,mysql" />
+</p>
+
+### 🌐 Web Development
+
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb" />
+</p>
+
+### 🔐 Cybersecurity
+
+<p>
+  <img src="https://img.shields.io/badge/Cybersecurity-111827?style=for-the-badge&logo=hackthebox&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Encryption-111827?style=for-the-badge&logo=letsencrypt&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Security%20Research-111827?style=for-the-badge&logo=security&logoColor=white"/>
+</p>
+
+### 🔧 Tools
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,linux" />
+</p>
 
 ---
 
 ## 🔥 Featured Projects
 
 ### 🔐 Text Encryption Suite
-A security-focused project for encrypting and decrypting text.
+
+A security-focused project for **encrypting and decrypting text**, demonstrating practical concepts of data protection and encryption.
 
 ### 🏎️ Car Racing Game
-An interactive browser-based racing game project.
+
+An interactive browser-based racing game project focused on gameplay, user interaction and web development.
 
 ### 🛣️ Escape Road
-A JavaScript-based interactive web game.
+
+A JavaScript-based interactive web game created to explore browser-based development and gameplay.
 
 ### 🌐 Web Projects
-A collection of web-development projects and experiments.
+
+A collection of web-development projects and experiments created while learning and improving frontend development.
 
 ### 🐍 Python Projects
-Programming projects and learning experiments using Python.
 
----
-
-## 🛠️ Tech Stack
-
-**Languages:**  
-`HTML` `CSS` `JavaScript` `Python` `Java` `SQL`
-
-**Development:**  
-`React` `Node.js` `Express.js` `MongoDB`
-
-**Cybersecurity:**  
-`Encryption` `Security Research` `Threat Detection` `Network Security`
-
-**Tools:**  
-`Git` `GitHub` `VS Code` `Linux`
+Programming projects and experiments created using Python while developing programming and problem-solving skills.
 
 ---
 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=princenayak01&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img src="https://github-stats-extended.vercel.app/api?username=princenayak01&show_icons=true&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=princenayak01&layout=compact&theme=tokyonight&hide_border=true" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=princenayak01&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
@@ -78,6 +101,14 @@ Programming projects and learning experiments using Python.
 
 ---
 
+## 📈 Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=princenayak01&theme=tokyo-night&hide_border=true" />
+</p>
+
+---
+
 ## 🎯 2026 Goals
 
 - 🚀 Improve Full-Stack Development
@@ -86,25 +117,21 @@ Programming projects and learning experiments using Python.
 - 🛠️ Build more real-world projects
 - 🌐 Create professional web applications
 - 🤝 Contribute to Open Source
+- 📚 Keep learning new technologies
 
 ---
 
-## ⚡ Developer Mindset
+## 🧠 Current Focus
 
-<p align="center">
-
-### CODE → LEARN → BUILD → SECURE → REPEAT 🚀
-
-</p>
-
-> *"Don't just learn technology. Build something with it."*
-
----
-
-<p align="center">
-  ⭐ If you like my projects, consider giving them a star!
-</p>
-
-<p align="center">
-  <b>Thanks for visiting my profile ❤️</b>
-</p>
+```text
+Web Development
+       ↓
+Programming & SQL
+       ↓
+Cybersecurity
+       ↓
+Encryption & Security Research
+       ↓
+Real-World Projects
+       ↓
+Continuous Learning 🚀
