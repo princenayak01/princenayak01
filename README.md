@@ -1,113 +1,173 @@
 <div align="center">
 
 # 👋 Hey, I'm Prince Nayak
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=26&pause=1000&color=00F7FF&center=true&vCenter=true&width=750&lines=Developer+%7C+Cybersecurity+Enthusiast;Building+Real+World+Projects;Code+%7C+Learn+%7C+Build+%7C+Secure" />
-</p>
-### 💻 Developer | 🔐 Cybersecurity Enthusiast | 🚀 Tech Explorer
-
-<img src="./profile.jpg" width="180" alt="Prince Nayak">
 
 <br>
 
+<img src="./profile.jpg" alt="Prince Nayak" width="240">
+
+<br><br>
+
+### 💻 Developer | 🔐 Cybersecurity Enthusiast | 🚀 Tech Explorer
+
 ### `Code. Learn. Build. Secure.`
 
-<p>
-  <a href="https://github.com/princenayak01">
-    <img src="https://img.shields.io/badge/GitHub-Prince%20Nayak-181717?style=for-the-badge&logo=github">
-  </a>
-  <a href="https://www.linkedin.com/in/prince-nayak-528331243/">
-    <img src="https://img.shields.io/badge/LinkedIn-Prince%20Nayak-0A66C2?style=for-the-badge&logo=linkedin">
-  </a>
-  <a href="https://www.instagram.com/pt_princenayak/">
-    <img src="https://img.shields.io/badge/Instagram-@pt__princenayak-E4405F?style=for-the-badge&logo=instagram">
-  </a>
-</p>
+<br>
 
-<img src="https://komarev.com/ghpvc/?username=princenayak01&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views">
+<a href="https://github.com/princenayak01">
+<img src="https://img.shields.io/badge/GitHub-Prince%20Nayak-181717?style=for-the-badge&logo=github&logoColor=white">
+</a>
+
+<a href="https://www.linkedin.com/in/prince-nayak-528331243/">
+<img src="https://img.shields.io/badge/LinkedIn-Prince%20Nayak-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
+</a>
+
+<a href="https://www.instagram.com/pt_princenayak/">
+<img src="https://img.shields.io/badge/Instagram-@pt__princenayak-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
+</a>
 
 </div>
 
 ---
 
-
-
----
-
 ## 🚀 About Me
 
-- 💻 Passionate about Web & Software Development
-- 🔐 Exploring Cybersecurity & Security Research
-- 🧠 Learning Programming, SQL & Modern Web Technologies
+- 💻 Passionate about **Web & Software Development**
+- 🔐 Exploring **Cybersecurity & Security Research**
+- 🧠 Learning **Programming, SQL & Modern Web Technologies**
 - 🛠️ Building practical and real-world projects
-- 🚀 Interested in Encryption & Application Security
+- 🚀 Interested in **Encryption & Application Security**
 - 🎯 Focused on continuously improving my skills
 
 ---
 
 ## 🛠️ Tech Stack
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,html,css,js,java,mysql,react,nodejs,express,mongodb,git,github,vscode,linux" />
-</p>
+### 👨‍💻 Programming Languages
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=python,java,html,css,js,mysql">
+
+</div>
+
+### 🌐 Web Development
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb">
+
+</div>
+
+### 🔧 Tools & Platforms
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,linux">
+
+</div>
+
+### 🔐 Cybersecurity
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/Cybersecurity-111111?style=for-the-badge&logo=hackthebox&logoColor=white">
+<img src="https://img.shields.io/badge/Encryption-412991?style=for-the-badge&logo=letsencrypt&logoColor=white">
+<img src="https://img.shields.io/badge/Security%20Research-8B0000?style=for-the-badge&logo=security&logoColor=white">
+
+</div>
 
 ---
 
 ## 🔥 Featured Projects
 
 ### 🔐 Text Encryption Suite
+
 A security-focused project for encrypting and decrypting text.
 
+**Focus:** Encryption • Data Security • Secure Applications
+
+---
+
 ### 🖼️ Image Encryption Tool
+
 A project focused on protecting image data through encryption.
 
+**Focus:** Image Security • Encryption • Cybersecurity
+
+---
+
 ### 🏎️ Car Racing Game
+
 An interactive browser-based racing game.
 
+**Focus:** HTML • CSS • JavaScript • Game Development
+
+---
+
 ### 🛣️ Escape Road
+
 A JavaScript-based interactive web game.
 
+**Focus:** JavaScript • Web Development • Game Development
+
+---
+
 ### 🔑 Keylogger Detection & Security System
+
 A cybersecurity project focused on detecting suspicious keylogging activity and improving system protection.
 
+**Focus:** Threat Detection • Security Research • System Protection
+
+---
+
 ### 🌐 Web Projects
+
 A collection of web-development projects and experiments.
+
+**Focus:** HTML • CSS • JavaScript • Web Development
 
 ---
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-stats-extended.vercel.app/api?username=princenayak01&show_icons=true&theme=tokyonight&hide_border=true" />
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=princenayak01&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=princenayak01&show_icons=true&theme=tokyonight&hide_border=true">
+
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=princenayak01&layout=compact&theme=tokyonight&hide_border=true">
+
+</div>
 
 ---
 
 ## 🔥 GitHub Streak
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=princenayak01&theme=tokyonight&hide_border=true" />
-</p>
+<div align="center">
+
+<img src="https://streak-stats.demolab.com/?user=princenayak01&theme=tokyonight&hide_border=true">
+
+</div>
 
 ---
 
 ## 📈 Contribution Graph
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=princenayak01&theme=tokyo-night&hide_border=true" />
-</p>
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=princenayak01&theme=tokyo-night&hide_border=true" width="100%">
+
+</div>
 
 ---
 
 ## 🐍 Contribution Snake
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/princenayak01/princenayak01/gh-pages/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" />
-</p>
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/princenayak01/princenayak01/gh-pages/github-contribution-grid-snake.svg" width="100%" alt="GitHub Contribution Snake">
+
+</div>
 
 ---
 
@@ -126,35 +186,8 @@ A collection of web-development projects and experiments.
 ## 🧠 Current Focus
 
 ```text
-Web Development
-       ↓
-Programming & SQL
-       ↓
-Cybersecurity
-       ↓
-Encryption & Security Research
-       ↓
-Real-World Projects
-       ↓
-Continuous Learning 🚀
-## 🚀 About Me
-
-- 💻 Passionate about **Web & Software Development**
-- 🔐 Exploring **Cybersecurity & Security Research**
-- 🐍 Learning **Python, SQL & Modern Web Technologies**
-- 🛠️ Building practical and real-world projects
-- 🔒 Interested in **Encryption, Security & Application Development**
-- 🌐 Exploring **Full-Stack Development**
-- 📚 Focused on continuously improving my skills
-- 🚀 Always learning something new
-
----
-
-## 🧠 Current Focus
-
-```text
-Web Development       ████████████████████ 100%
-Programming & SQL     █████████████████░░░  85%
-Cybersecurity         ███████████████░░░░░  75%
-Python                ███████████████░░░░░  75%
-Full-Stack Development █████████████░░░░░░  70%
+Web Development           ████████████████████ 100%
+Programming & SQL         █████████████████░░░  85%
+Cybersecurity             ███████████████░░░░░  75%
+Python                    ███████████████░░░░░  75%
+Full-Stack Development    ██████████████░░░░░░  70%
